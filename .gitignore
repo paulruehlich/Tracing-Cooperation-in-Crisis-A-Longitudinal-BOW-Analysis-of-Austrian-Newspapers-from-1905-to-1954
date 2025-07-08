@@ -1,0 +1,23 @@
+# Ignore raw/large data files
+data/raw/
+*.zip
+*.csv
+*.json
+*.tsv
+*.xlsx
+*.npy
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Jupyter
+*.log
+
+# macOS & IDEs
+.DS_Store
+.vscode/
+.idea/
+
